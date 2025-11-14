@@ -8,15 +8,18 @@ module.exports = {
     },
     urls: [
         "https://coda-school.github.io/25-html-g2/Box/Box.html",
-        "https://coda-school.github.io/25-html-g2/PageAcceuil/",
+        "https://coda-school.github.io/25-html-g2/Lobby/LobbyFR.html",
         "https://coda-school.github.io/25-html-g2/Roulette/Roulette.html",
-        "https://coda-school.github.io/25-html-g2/Samuel/Login.html",
-        "https://coda-school.github.io/25-html-g2/Samuel/Signup.html",
+        "https://coda-school.github.io/25-html-g2/Authentification/LoginFR.html",
+        "https://coda-school.github.io/25-html-g2/Authentification/SignupFR.html",
         "https://coda-school.github.io/25-html-g2/SlotMachine/Slot-machine.html",
         // versions anglaises
-        "https://coda-school.github.io/25-html-g2/Roulette/RouletteAng.html",
-        "https://coda-school.github.io/25-html-g2/Samuel/LoginEN.html",
-        "https://coda-school.github.io/25-html-g2/Samuel/SignupEN.html",
+        "https://coda-school.github.io/25-html-g2/Roulette/RouletteEN.html",
+        "https://coda-school.github.io/25-html-g2/Authentification/LoginEN.html",
+        "https://coda-school.github.io/25-html-g2/Authentification/SignupEN.html",
+        "https://coda-school.github.io/25-html-g2/SlotMachine/Slot-machineEN.html",
+        "https://coda-school.github.io/25-html-g2/Lobby/LobbyEN.html",
+        "https://coda-school.github.io/25-html-g2/Box/box_en.html",
 
 
     ]
